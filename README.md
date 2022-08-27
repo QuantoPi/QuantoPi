@@ -8,4 +8,4 @@
   * 🇬🇧 English
   * 🇧🇷 Brazilian Portuguese
 * Proudly mexican
-* Currently studying Mechatronics Engineering
+* Currently studying mechatronics engineering
