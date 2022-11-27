@@ -3,6 +3,8 @@
   * Python
   * JavaScript
   * Go
+  * C#
+  * C/c++
 * I speak:
   * 🇪🇸 Spanish
   * 🇬🇧 English
