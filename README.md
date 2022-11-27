@@ -4,7 +4,7 @@
   * JavaScript
   * Go
   * C#
-  * C/c++
+  * C/C++
 * I speak:
   * 🇪🇸 Spanish
   * 🇬🇧 English
